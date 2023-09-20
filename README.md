@@ -19,10 +19,11 @@ Question 3: What are the top 5 establishments with a RatingValue of 5, sorted by
 Q4.Question 4: How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas.
 
 # Additional Information:
-In this repository, you will find the starter code folder that holds the NoSSQL_analysis_starter and NoSQl_setup_starter codes that complete the assignment. There is also a Resources folder that contains the establishments JSON file. Aside from the sources cited below, everything used was retained information gathered from my classes and class activities. As always shout out to my bootcamp TAs Sam and Randy for all their help answering my questions during office hours, my instructor Hunter for always being clear in his articulation of the course material, and my classmates for their encouragement and support.
+In this repository, you will find the Starter_Code folder that contains the NoSQL_analysis_starter and NoSQL_setup_starter codes that complete the assignment. There is also a Resources folder that contains the establishments JSON file. Aside from the sources cited below, everything used was retained information gathered from my classes and class activities. As always shout out to my bootcamp TAs Sam and Randy for all their help answering my questions during office hours, my instructor Hunter for always being clear in his articulation of the course material, and my classmates for their encouragement and support.
 
 # Resources and Citations:
 Used to update data types:
+
 MongoDB. (2023). $toDecimal(aggregation). MongoDB Manual. Retrieved from: https://www.mongodb.com/docs/manual/reference/operator/aggregation/toDecimal/
 
 MongoDB. (2023). $toDouble(aggregation). MongoDB Manual. Retrieved from: https://www.mongodb.com/docs/manual/reference/operator/aggregation/toDouble/
@@ -30,7 +31,9 @@ MongoDB. (2023). $toDouble(aggregation). MongoDB Manual. Retrieved from: https:/
 MongoDB. (2023). $toInt(aggregation). MongoDB Manual. Retrieved from:  https://www.mongodb.com/docs/manual/reference/operator/aggregation/toInt/
 
 Used to add images onto readme:
+
 Tech Projects. (2020, September 18). Add image/screenshot of your project to your GitHub repository [Video]. https://www.youtube.com/watch?v=NVibWKkon74&ab_channel=TechProjects
 
 Used for indepth learning on "update_many":
+
 Tyagi, A. (n.d.). Python MongoDB- Update_many Query. Geeks for Geeks. Retrieved from: https://www.geeksforgeeks.org/python-mongodb-update_many-query/
