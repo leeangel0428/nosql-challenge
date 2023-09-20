@@ -4,11 +4,14 @@ Hello viewer and welcome to my submission for Challenge 12 aka the nosql-challen
 # Overview
 "The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. You've been contracted by the editors of a food magazine, Eat Safe, Love, to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles."
 
-Part One: Database and Jupyter Notebook Setup
+Part One: Database and Jupyter Notebook Setup.
 
-Part Two: Update the Database
+Part Two: Update the Database.
 
-Part Three: Exploratory Analysis
+Given Reference Image to include in code: 
+![7](https://github.com/leeangel0428/nosql-challenge/assets/137225965/e4f8b778-4e9f-4cb3-bb51-a3c36c451346)
+
+Part Three: Exploratory Analysis.
 
 Question 1: Which establishments have a hygiene score equal to 20? 
 
@@ -17,6 +20,10 @@ Question 2: Which establishments in London have a RatingValue greater than or eq
 Question 3: What are the top 5 establishments with a RatingValue of 5, sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?
 
 Q4.Question 4: How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas.
+
+Given Reference image on what the final dataframe should look like:
+
+![8](https://github.com/leeangel0428/nosql-challenge/assets/137225965/89db8349-42a8-492d-be90-d689dd38bede)
 
 # Additional Information:
 In this repository, you will find the Starter_Code folder that contains the NoSQL_analysis_starter and NoSQL_setup_starter codes that complete the assignment. There is also a Resources folder that contains the establishments JSON file. Aside from the sources cited below, everything used was retained information gathered from my classes and class activities. As always shout out to my bootcamp TAs Sam and Randy for all their help answering my questions during office hours, my instructor Hunter for always being clear in his articulation of the course material, and my classmates for their encouragement and support.
@@ -28,7 +35,7 @@ In the NoSQL_setup_starter code, I ran into an issue on Part 2, task 2. The outp
 I then fixed it by using ".find_one". See image.
 ![2](https://github.com/leeangel0428/nosql-challenge/assets/137225965/352b701e-223c-4846-a4ac-81d2f747b063)
 
-In the NoSQL_analysis_starter code, I ran into another issue on Part 3, question 4. My output included the "LocalAuthorityName" which later on caused another issue with my dataframe where the id included "LocalAuthorityName:" in each element. See images.
+In the NoSQL_analysis_starter code, I ran into another issue on Part 3, question 4. My output included the "LocalAuthorityName" which later on caused another issue with my dataframe where the id included "LocalAuthorityName:" in each element. This does not match the given reference image for how the dataframe should appear. See images.
 ![3](https://github.com/leeangel0428/nosql-challenge/assets/137225965/f4fd8cba-44fc-4c43-aff0-baabf18df011)
 ![4](https://github.com/leeangel0428/nosql-challenge/assets/137225965/89534a90-791b-48c1-a4c8-2d9da9e83e61)
 
