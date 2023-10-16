@@ -60,4 +60,10 @@ Tech Projects. (2020, September 18). Add image/screenshot of your project to you
 
 Tyagi, A. (n.d.). Python MongoDB- Update_many Query. Geeks for Geeks. Retrieved from: https://www.geeksforgeeks.org/python-mongodb-update_many-query/
 
+### Grade: 
+![Screenshot 2023-10-15 220753](https://github.com/leeangel0428/Excel_analysis/assets/137225965/d74f3c8e-4a65-4cf9-af08-13148e183993)
+
+![Screenshot 2023-10-15 220759](https://github.com/leeangel0428/Excel_analysis/assets/137225965/75d0d10f-fe99-4345-bbf6-c867022e726b)
+
+
 
